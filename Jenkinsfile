@@ -3,7 +3,7 @@ node {
     echo 'Starting greeting'
     
     for (int i = 1; i <= 5; i++) {
-      echo "Hello, User ${i}!"
+      echo "Hello, Raj ${i}!"
     }
     
     echo 'Finishing greeting'
